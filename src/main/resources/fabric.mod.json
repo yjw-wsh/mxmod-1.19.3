@@ -16,10 +16,10 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"cdl.mxmod.ExampleMod"
+          "cdl.mxmod.MxMod"
 		],
 		"fabric-datagen": [
-			"cdl.mxmod.ExampleModDataGenerator"
+			"cdl.mxmod.MxModDataGenerator"
 		]
 	},
 	"mixins": [
